@@ -1,0 +1,6 @@
+{
+  "name": "SnapNote",
+  "description": "A simple, fast and beautiful task manager and note-taking app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
